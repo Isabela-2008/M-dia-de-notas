@@ -1,0 +1,12 @@
+Enunciado do Projeto
+Título: Calculadora de Média de Notas
+
+Descrição:
+Desenvolva um programa em Python que solicita ao usuário a entrada de três notas, calcula a média dessas notas e exibe o resultado com duas casas decimais.
+
+Requisitos:
+
+Solicitar ao usuário que insira três notas, uma de cada vez.
+Armazenar as notas em uma lista.
+Calcular a média das notas inseridas.
+Exibir a média calculada com duas casas decimais.
